@@ -1,0 +1,26 @@
+{
+  "name": "Naina Rathi \u2022 Birthday",
+  "short_name": "Naina Birthday",
+  "description": "A birthday countdown and love-filled birthday experience for Naina Rathi.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff7fb",
+  "theme_color": "#ff6fae",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

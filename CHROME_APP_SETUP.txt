@@ -1,0 +1,22 @@
+NAINA RATHI BIRTHDAY — CHROME INSTALLABLE APP
+================================================
+
+This package is now a Progressive Web App (PWA).
+
+To install it from Chrome:
+1. Upload these files to your GitHub repository, keeping the folder structure.
+2. Enable GitHub Pages for the repository (main branch, root folder).
+3. Open the HTTPS GitHub Pages URL in Chrome.
+4. On the Home page, Chrome should offer "Install app"; you can also use
+   Chrome menu (⋮) -> Install app / Add to Home screen.
+5. The Home page also has an "Install Birthday App" button when Chrome
+   exposes the install prompt.
+
+Important:
+- Do NOT open index.html directly from the phone's file manager if you want
+  the PWA install feature. PWA installation requires HTTPS (GitHub Pages works).
+- The service worker caches the site so the app can continue working offline
+  after its first successful load.
+- The countdown target remains 25 October 2026.
+
+Romantic personalization: the site now uses affectionate language such as “baby” and “chidkoli” throughout the birthday pages.
